@@ -1,3 +1,11 @@
+Basic RTK, without async operations
+1. how to create slices
+2. how to configure the redux store
+3. how to connect the store to the components
+4. it is worth noting that redux does not persist data across page refresh or reload
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
