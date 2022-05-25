@@ -33,6 +33,7 @@ export const customerSlice = createSlice({
     removeCustomer: () => {},
     addCustomerFood: (state, action) => {
       /*
+      anything passed into dispatch is added as a value to payload property of action object
             action.payload = {
                 index:0,
                 foodName:"Rice"
